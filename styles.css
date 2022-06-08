@@ -2,3 +2,11 @@ nav {
     padding: 25px;
     font-family: 'Roboto', sans-serif;
 }
+
+:root {
+    --color-light: #F1EEE9;
+    --darkgray: #DDDDDD;
+    --bg-gray: lightgray;
+}
+html {
+    font-size: 16px; }
